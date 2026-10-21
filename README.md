@@ -17,7 +17,7 @@
 
 ### Watching 关注 
 
-<code>价格行为</code> <code>财报口径</code> <code>风险预算</code> <code>自动化交易</code>
+<code>价格行为 Price Action</code> <code>财报口径 Financial report</code> <code>实用工具 Practical Tools</code> <code>智能体和大模型 agent&LLM</code>
 
 ### Contributes 贡献 
 

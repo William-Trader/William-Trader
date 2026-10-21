@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Crypto &amp; A-share quant research · trading systems</b><br/>
-  把研究做成能跑的系统，不是 PPT。
+  在不断学习中优化系统，追求真理。
 </p>
 
 ---

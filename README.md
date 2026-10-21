@@ -1,7 +1,7 @@
 <h1 align="center">Chou</h1>
 
 <p align="center">
-  <b>Crypto &amp; A-share quant research · trading systems</b><br/>
+  <b>Ever learning, ever refining — ever nearer to the truth.</b><br/>
   在不断学习中优化系统，追求真理。
 </p>
 

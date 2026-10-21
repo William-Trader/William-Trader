@@ -1,4 +1,4 @@
-<h1 align="center">Chou</h1>
+<h1 align="center">William Chou</h1>
 
 <p align="center">
   <b>Ever learning, ever refining — ever nearer to the truth.</b><br/>

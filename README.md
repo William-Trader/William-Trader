@@ -7,7 +7,7 @@
 
 ---
 
-### 现在在做 In Progress
+### In Progress 现在在做 
 
 | 项目 | 做什么 | 栈 |
 |---|---|---|
@@ -15,11 +15,11 @@
 | [naked-k-analysis](https://github.com/William-Trader/naked-k-analysis) | 价格行为 K 线分析 | Python |
 | [ashare-financial-report-agent](https://github.com/William-Trader/ashare-financial-report-agent) | A 股财报分析与风险体检 | Python |
 
-### 关注 Watching
+### Watching 关注 
 
 <code>价格行为</code> <code>财报口径</code> <code>风险预算</code> <code>自动化交易</code>
 
-### 贡献 Contributes
+### Contributes 贡献 
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=William-Trader&theme=github_dark" alt="profile details" />

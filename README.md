@@ -19,6 +19,11 @@
 
 <code>价格行为 Price Action</code> <code>财报口径 Financial report</code> <code>实用工具 Practical Tools</code> <code>智能体和大模型 agent&LLM</code>
 
+### Features 特点
+
+
+<code>Structured </code> <code>System Optimization </code> <code>Cross-disciplinary </code> <code>Finance and Economics</code>
+
 ### Contributes 贡献 
 
 <p align="center">

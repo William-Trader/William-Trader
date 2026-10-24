@@ -1,8 +1,8 @@
 <h1 align="center">William Chou</h1>
 
 <p align="center">
-  <b>Ever learning, ever refining — ever nearer to the truth.</b><br/>
-  在不断学习中优化系统，追求真理。
+  <b>It takes both a structural breakthrough and the perseverance to see it endure.</b><br/>
+  我们需要的是结构性的突破，以及持之以恒的坚持。
 </p>
 
 ---

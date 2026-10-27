@@ -11,8 +11,6 @@
 
 | 项目 | 做什么 | 栈 |
 |---|---|---|
-| [w1-quant-board](https://github.com/William-Trader/w1-quant-board) | 量化看板 · 信号与持仓 | JavaScript |
-| [naked-k-analysis](https://github.com/William-Trader/naked-k-analysis) | 价格行为 K 线分析 | Python |
 | [ashare-financial-report-agent](https://github.com/William-Trader/ashare-financial-report-agent) | A 股财报分析与风险体检 | Python |
 
 ### Watching 关注 

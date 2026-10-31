@@ -4,6 +4,10 @@
   <b>It takes both a structural breakthrough and the perseverance to see it endure.</b><br/>
   我们需要的是结构性的突破，以及持之以恒的坚持。
 </p>
+<p align="center">
+  <b>Create long-term smooth ascents in short-term challenging noise.</b><br/>
+  在短期的挑战性噪音中,创造长期的平滑上升。
+</p>
 
 ---
 

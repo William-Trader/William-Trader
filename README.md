@@ -15,7 +15,9 @@
 
 | 项目 | 做什么 | 栈 |
 |---|---|---|
-| [ashare-financial-report-agent](https://github.com/William-Trader/ashare-financial-report-agent) | A 股财报分析与风险体检 | Python |
+| null | null | null |
+
+I am processing my stack now! 
 
 ### Watching 关注 
 
